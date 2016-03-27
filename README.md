@@ -1,5 +1,7 @@
 # sudo-phisher
 
+()![]
+
 Just alias sudo to phisher.sh and it will save password to **~/.password.txt**
 
 ```bash
