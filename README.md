@@ -10,6 +10,7 @@ You can edit COMMAND and FILE inside **phisher.sh**
 
 ## Todo
 
-[ ] Check if arguments are valid
-[ ] Check password
+- [ ] Check if arguments are valid
+
+- [ ] Check password
 
